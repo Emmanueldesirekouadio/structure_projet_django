@@ -173,9 +173,3 @@ python manage.py runserver
 ```
 
 Visitez `http://127.0.0.1:8000/` dans votre navigateur pour voir la page d'accueil.
-
-### Étape 10: Continuer le développement
-
-À partir de là, vous pouvez ajouter plus de fonctionnalités à votre application Django, comme la gestion de formulaires, l'authentification des utilisateurs, l'intégration d'une base de données, etc. Django est très flexible et extensible, donc les possibilités sont vastes.
-
-N'hésitez pas à demander si vous avez des questions spécifiques ou si vous voulez approfondir certaines parties du processus!
